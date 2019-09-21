@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     //            1 => 여자
     //일단 초기값은 gender 0, age 10,
     //10살의 남자라고 설정
-    int gender=0, age=10;
+    int gender=0, age=70;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

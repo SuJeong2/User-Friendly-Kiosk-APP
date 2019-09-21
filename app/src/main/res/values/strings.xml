@@ -4,9 +4,25 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string-array name="image_titles">
-        <item>첫번째 이미지</item>
-        <item>두번째 이미지</item>
-        <item>세번째 이미지</item>
+
+    <string name="list_item1">추천메뉴</string>
+    <string name="list_item2">햄버거</string>
+    <string name="list_item3">사이드 메뉴</string>
+    <string name="list_item4">파이</string>
+
+    <string-array name="list_items">
+        <item>추천 메뉴</item>
+        <item>햄버거</item>
+        <item>사이드메뉴</item>
+        <item>파이</item>
+        <item>음료수</item>
+    </string-array>
+
+    <string-array name="list_items_for_older">
+        <item>추천 메뉴</item>
+        <item>햄버거</item>
+        <item>같이 먹는 음식</item>
+        <item>파이</item>
+        <item>음료수</item>
     </string-array>
 </resources>
